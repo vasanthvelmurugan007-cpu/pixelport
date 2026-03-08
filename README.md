@@ -1,0 +1,1 @@
+PixelPort is a lightweight Python desktop app that streams your live screen in real-time to any device on the same Wi-Fi or mobile hotspot. It features a modern GUI, smart network detection, and smooth multi-threaded performance. Viewers can join instantly via any web browser with zero client installations. Built with Flask and OpenCV.
